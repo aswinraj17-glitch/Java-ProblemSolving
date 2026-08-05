@@ -7,7 +7,7 @@ public class nthCommnFactor {
         int b = sc.nextInt();
         int range = sc.nextInt();
         int a1 = 0;
-        int[] arr1 = new int[a];
+        int[] arr1 = new int[a]; 
         int a2 = 0;
         int[] arr2 = new int[b];
         for (int i = 1; i <= a; i++) {
