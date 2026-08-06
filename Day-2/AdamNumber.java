@@ -10,8 +10,7 @@ public class AdamNumber{
             }
             if(i%10 == 0){
                 continue;
-            }
-            
+            }  
             long temp=i;
             long temp1=i;
             long rev=0;
