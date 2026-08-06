@@ -11,6 +11,7 @@ public class AdamNumber{
             if(i%10 == 0){
                 continue;
             }  
+            
             long temp=i;
             long temp1=i;
             long rev=0;
@@ -19,6 +20,7 @@ public class AdamNumber{
                 rev=rev*10+digit;
                 temp=temp/10;
             }
+            
             long sq=rev*rev;
             long sq1=temp1*temp1;
             long rev1=0;
