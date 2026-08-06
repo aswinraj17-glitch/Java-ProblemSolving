@@ -6,6 +6,7 @@ public class Armstrong{
         int end=sc.nextInt();
         for(int i=start;i<=end;i++){
         int count=0;
+            
             int temp=i;
             int temp2=i;
             while(temp>0){
