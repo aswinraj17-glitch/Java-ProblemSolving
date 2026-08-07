@@ -25,6 +25,7 @@ public class StrongNumber{
             if(num==1 ||sum==num) {
                 System.out.print(num + " ");
             }
+            
         }
     }
 }
