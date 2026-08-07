@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class StrongNumber{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
+        
         int start=sc.nextInt();
         int end=sc.nextInt();
         
