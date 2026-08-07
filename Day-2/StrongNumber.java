@@ -6,6 +6,7 @@ public class StrongNumber{
 
         int start=sc.nextInt();
         int end=sc.nextInt();
+        
         for (int num=start;num<=end;num++) {
             int temp=num;
             int sum=0;
