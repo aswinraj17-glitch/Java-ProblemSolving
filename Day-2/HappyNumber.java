@@ -15,6 +15,7 @@ public class HappyNumber {
                     sum += digit * digit;
                     temp = temp / 10;
                 }
+                
                 temp = sum;
             }
             if (temp == 1) {
