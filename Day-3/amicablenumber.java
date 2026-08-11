@@ -11,7 +11,6 @@ public class amicablenumber{
                 sum+=i;
             }
         }
-        
         int sum1=0;
         for(int i=1;i<num2;i++){
             if(num2%i==0){
