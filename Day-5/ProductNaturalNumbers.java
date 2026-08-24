@@ -17,7 +17,7 @@ public class ProductNaturalNumbers{
             System.out.println("No");
                 
         }
-        
+        sc.close();
         
     }
 }
