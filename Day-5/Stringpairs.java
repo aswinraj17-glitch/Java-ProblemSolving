@@ -34,5 +34,6 @@ public class Stringpairs {
         }
 
         System.out.println(result);
+        sc.close();
     }
 }
