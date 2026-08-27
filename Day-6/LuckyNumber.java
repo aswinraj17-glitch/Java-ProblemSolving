@@ -37,5 +37,6 @@ public class LuckyNumber {
         } else {
             System.out.println("NO");
         }
+        sc.close();
     }
 }
