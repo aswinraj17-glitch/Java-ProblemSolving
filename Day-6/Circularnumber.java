@@ -33,5 +33,6 @@ public class Circularnumber {
         }
 
         System.out.println("No");
+        sc.close();
     }
 }
