@@ -28,6 +28,6 @@ public class SpeedMonitor{
             
         }
         
-        
+        sc.close();
     }
 }
